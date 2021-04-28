@@ -1,0 +1,32 @@
+
+.contenu{
+    width : 500px;
+    margin : 0 auto;
+
+}
+.details{
+    /*background-color: lightskyblue;*/
+    height: 150px;
+}
+
+div.details img{
+    height: 150px;
+    width: 120px;
+    float: left;
+    border-radius: 60%;
+}
+
+.liste-details{
+    /*background-color: saddlebrown;*/
+    float: left;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+hr{
+    border-color: skyblue;
+}
